@@ -1,4 +1,4 @@
-// 
+// java chapter-3/Exc/Exc17.java
 
 import java.util.Scanner;
 public class Exc17 {
